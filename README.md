@@ -1,5 +1,3 @@
-# AutomatonEra-Cellular-Automaton-Renderer-Unveiling-Living-Digital-Symphony
-
 # AutomataCraft 🌟
 
 AutomataCraft is a mesmerizing cellular automaton renderer written in MIPS assembly language. Experience the beauty of evolution and emergence as you watch intricate patterns unfold.
