@@ -34,24 +34,28 @@ To embark on your journey with AutomataCraft:
    ```
    git clone https://github.com/your-username/AutomataCraft.git
 
-    Navigate to the repository:
+   ```
+2. Navigate to the repository:
 
-    sh
-
+   ```
     cd AutomataCraft
+   ```
 
-    Assemble and run the MIPS assembly code using a simulator.
-    Follow the prompts to input the world size, rule, and number of generations.
-    Watch in awe as AutomataCraft brings patterns to life!
+3. Assemble and run the MIPS assembly code using a simulator.
 
-Requirements 🧩
+4. Follow the prompts to input the world size, rule, and number of generations.
+
+5. Watch in awe as AutomataCraft brings patterns to life!
+
+## Requirements 🧩
 
     MIPS assembly simulator
 
-Contributing 🤝
+## Contributing 🤝
 
 Contributions are warmly welcomed! To contribute, fork the repository and create a pull request.
-License 📜
+
+## License 📜
 
 This project is licensed under the MIT License.
 <div align="center">
