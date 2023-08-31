@@ -31,7 +31,7 @@ To embark on your journey with AutomataCraft:
 ## Usage 🎮
 
 1. Clone the repository:
-   ```sh
+   ```
    git clone https://github.com/your-username/AutomataCraft.git
 
     Navigate to the repository:
