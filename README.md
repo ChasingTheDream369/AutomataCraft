@@ -33,7 +33,6 @@ To embark on your journey with AutomataCraft:
 1. Clone the repository:
    ```
    git clone https://github.com/your-username/AutomataCraft.git
-
    ```
 2. Navigate to the repository:
 
@@ -61,4 +60,3 @@ This project is licensed under the MIT License.
 <div align="center">
   <img src="sticker2.png" alt="AutomataCraft Sticker 2" width="150">
 </div>
-```
